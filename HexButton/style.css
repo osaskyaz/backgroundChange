@@ -1,19 +1,17 @@
 * {
   padding: 0px;
   margin: 0px;
-  text-decoration: none;
-  list-style: none;
   box-sizing: border-box;
 }
 
-body {
+.container {
   min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-.container {
+.box {
   text-align: center;
   flex: 0 0 70%;
 }
